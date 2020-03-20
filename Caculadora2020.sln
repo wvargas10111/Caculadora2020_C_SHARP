@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculadora2020", "Caculadora2020\Caculadora2020.csproj", "{7554E273-C135-4D18-8915-5F9089CB1BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7554E273-C135-4D18-8915-5F9089CB1BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7554E273-C135-4D18-8915-5F9089CB1BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7554E273-C135-4D18-8915-5F9089CB1BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7554E273-C135-4D18-8915-5F9089CB1BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79DEC4F-361A-4F52-A2C1-1639180A61EE}
+	EndGlobalSection
+EndGlobal
